@@ -1,3 +1,6 @@
+READ.ME
+
+
 ⁉️ O que é esse projeto?
     É o projeto final do módulo 1 do curso Bootcamp Online - Desenvolvedor Full Stack do IGTI, no qual fizemos uma revisão bem intensa sobre os principais conceitos de JS front-end e tivemos uma introdução à programação back-end.
 
