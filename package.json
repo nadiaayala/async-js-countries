@@ -1,0 +1,22 @@
+{
+  "name": "async-js-countries",
+  "version": "1.0.0",
+  "description": "READ.ME",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadiaayala/async-js-countries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadiaayala/async-js-countries/issues"
+  },
+  "homepage": "https://github.com/nadiaayala/async-js-countries#readme",
+  "dependencies": {
+    "uniqid": "^5.2.0"
+  }
+}

@@ -1,0 +1,64 @@
+h1 {
+    font-size: 4rem;
+}
+h2{
+    font-size: 2rem;
+}
+#container{
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    
+
+}
+#countries{
+    width: 50%;
+
+}
+#favorites{
+    width: 50%;
+}
+
+.list{
+    padding-left: 0;
+}
+
+/*Each country style*/
+.country{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.country-btn{
+    width:20%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.country-btn button{
+    width: 50px;
+    height: 40px;
+    border-radius: 20%;
+    border-color: #AFAFAF;
+    background-color: #249888;
+    color: white;
+}
+.flag{
+    width: 20%;
+
+}
+.flag-img{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.country-info{
+    width: 60%;
+    text-decoration: none;
+    list-style-type: none;
+}
+
