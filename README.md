@@ -8,5 +8,5 @@ READ.ME
     Usei uma API com informações sobre diversos países para treinar JS assíncrono, requisições utilizando os diferentes métodos HTTP e manipulação de resultado de API calls.
 
 
-<h2>📚 Link da API usada: </h2>
+<h3>📚 Link da API usada: </h3>
 https://restcountries.eu/rest/v2/all
